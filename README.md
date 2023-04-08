@@ -7,9 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_abnerarruda_/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abner.dearruda/)
 
-![Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerarruda&show_icons=true&theme=merko)
+![Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrudaAbner&show_icons=true&theme=merko)
 
-## Technologies that i'm studying
+## Technologies that i'm using in my projects
 
 <br/>
 
